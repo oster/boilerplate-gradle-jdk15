@@ -1,4 +1,4 @@
-package boilerplategradlejdk13;
+package eu.telecomnancy.javafx;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

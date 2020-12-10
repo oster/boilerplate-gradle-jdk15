@@ -1,4 +1,4 @@
-package boilerplategradlejdk13.controller;
+package eu.telecomnancy.javafx.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

@@ -1,8 +1,8 @@
-module boilerplategradlejdk13 {
+module eu.telecomnancy.javafx {
     requires javafx.controls;
     requires javafx.fxml;
-    opens boilerplategradlejdk13 to javafx.fxml;
-    opens boilerplategradlejdk13.controller to javafx.fxml;
+    opens eu.telecomnancy.javafx to javafx.fxml;
+    opens eu.telecomnancy.javafx.controller to javafx.fxml;
 
-    exports boilerplategradlejdk13;
+    exports eu.telecomnancy.javafx;
 }
